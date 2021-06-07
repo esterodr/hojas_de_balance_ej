@@ -1,6 +1,8 @@
 # History files
 .Rhistory
 .Rapp.history
+rsconnect/
+hojas_de_balance_ej.Rproj
 
 # Session Data files
 .RData
